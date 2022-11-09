@@ -83,7 +83,7 @@
     </style>
   </head>
   <body>
-    <h1>P.Nhi</h1>
+    <h1>P.Nhi </h1>
     <div class="box">
       <canvas id="pinkboard"></canvas>
     </div>
